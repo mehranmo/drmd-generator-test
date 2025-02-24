@@ -1188,8 +1188,7 @@ def export_document(ns_drmd, ns_dcc):
 # --- Tab 5: Digital Signature ---
 with tabs[4]:
     st.header("Digital Signature")
-    st.write("Upload a certificate to sign the document.")
-    digital_signature_cert = st.file_uploader("Digital Signature Certificate", type=["pfx", "pem", "cer"], key="digital_signature_cert")
+    st.write("Under construction ...")
 
 with tabs[5]:
     st.header("Validate & Export")
