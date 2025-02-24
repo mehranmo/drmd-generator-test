@@ -1,0 +1,8 @@
+streamlit
+xmlsec
+cryptography
+lxml
+xmlschema
+pandas
+rdflib
+requests
