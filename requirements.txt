@@ -1,5 +1,5 @@
 streamlit
-xmlsec
+xmlsec==1.3.13
 cryptography
 lxml
 xmlschema
